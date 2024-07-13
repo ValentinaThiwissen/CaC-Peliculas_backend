@@ -1,0 +1,5 @@
+# Ignorar carpeta target generada por Maven
+target/
+
+# Ignorar carpeta de configuración de VS Code
+.vscode/
